@@ -1,2 +1,2 @@
-# flipkart-clown-
-html css js project of flipkark clown home webpage.
+# flipkart-clone-
+html css js project of flipkark clone home webpage.
